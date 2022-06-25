@@ -1,7 +1,7 @@
 
 #include <stdlib.h>
 #include <time.h>
-#include "life.h"
+#include "vida.h"
 #include "misc.h"
 
 

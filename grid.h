@@ -3,7 +3,7 @@
 #define __GRID_H__
 
 #include <gtk/gtk.h>
-#include "life.h"
+#include "vida.h"
 #include "misc.h"
 
 

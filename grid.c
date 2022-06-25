@@ -1,7 +1,7 @@
 
 #include <gtk/gtk.h>
 #include "grid.h"
-#include "life.h"
+#include "vida.h"
 #include "misc.h"
 #include "bars.h"
 

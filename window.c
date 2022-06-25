@@ -22,7 +22,7 @@ void Create_Main_Window(MainWindow *mainwindow)
 
 	/* Se crea la ventana principal */
 	mainwindow->window = gtk_window_new(GTK_WINDOW_TOPLEVEL);
-	gtk_window_set_title(GTK_WINDOW(mainwindow->window), "The life game");
+	gtk_window_set_title(GTK_WINDOW(mainwindow->window), "Vida");
 	gtk_window_set_default_size(GTK_WINDOW(mainwindow->window),
 								MAIN_WINDOW_WIDTH, MAIN_WINDOW_HEIGHT);
 
