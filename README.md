@@ -16,6 +16,13 @@ Las transiciones dependen del número de células vecinas vivas:
 
 ![screenshot2](https://user-images.githubusercontent.com/75378876/175793410-6e61213d-bcbe-4d1c-a47b-3133872d8d56.png)
 
+## Características
+
+* Generación de tableros aleatorios
+* Zoom
+* Variación del tiempo de evolución
+* Permite pausar y continuar
+
 ## Requisitos
 
 * gcc
